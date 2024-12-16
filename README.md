@@ -1,10 +1,9 @@
-# Roshwill Detailers LLC
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Roshwill Detailers Plans</title>
+    <title>Roshwill Detailers Limited Offer</title>
     <style>
         body {
             margin: 0;
@@ -12,9 +11,7 @@
             color: #fff;
             background: linear-gradient(135deg, #0a0a0a, #021C3D); /* Darkest black to blue gradient */
             text-align: center;
-        }
-        .logo {
-            margin: 30px auto;
+            padding: 20px;
         }
         .container {
             margin: 0 auto;
@@ -64,15 +61,14 @@
     </style>
 </head>
 <body>
-    <div class="logo">
-        <img src="White Black Modern Initial Logo (1).png" alt="Roshwill Detailers Logo" width="250">
-    </div>
     <div class="container">
         <div class="plan">
-    <h2 class="limited-offer">Limited-Time Offer! </h2>
-    <p class="price">$38 <span class="limited-offer">(51% OFF)</span></p>
-    <p>Get the Venere Detailing for only $38 during this special holiday deal! Offer ends on <strong>December 26th, 2024</strong>.</p>
-    <a href="#" class="btn">Book Now</a>
-</div>
+            <h2 class="limited-offer">Limited-Time Offer! </h2>
+            <p class="price">$38 <span class="limited-offer">(51% OFF)</span></p>
+            <p>Get the Venere Detailing for only $38 during this special holiday deal! Offer ends on <strong>December 26th, 2024</strong>.</p>
+            <a href="https://calendly.com/roshwilldetailers" class="btn" target="_blank">Book Now</a>
+        </div>
+    </div>
 </body>
 </html>
+
