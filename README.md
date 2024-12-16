@@ -1,4 +1,4 @@
-# Roshwill Detailers llc 
+# Roshwill Detailers LLC
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -68,16 +68,6 @@
         <img src="White Black Modern Initial Logo (1).png" alt="Roshwill Detailers Logo" width="250">
     </div>
     <div class="container">
-        <div class="plan">
-            <h2>Venere Detailing</h2>
-            <p class="price">$78.24</p>
-            <p>Premium detailing to make your car shine like new.</p>
-        </div>
-        <div class="plan">
-            <h2>Olmere Detailing</h2>
-            <p class="price">$58.24</p>
-            <p>Classic detailing for a clean and polished ride.</p>
-        </div>
         <div class="plan">
     <h2 class="limited-offer">Limited-Time Offer! </h2>
     <p class="price">$38 <span class="limited-offer">(51% OFF)</span></p>
